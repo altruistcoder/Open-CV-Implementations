@@ -17,3 +17,7 @@ This is a repository of code files which can be used to perform some basic tasks
 * [Geometric Transformations on Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/geometric_transformations.ipynb):
 
   Python Code to perform Geometric Transformations like Image Translation, Rotation, Resizing, Flipping and Cropping of an image using OpenCV.
+  
+* [Bitwise Operations on Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/bitwise_operations.ipynb):
+
+  Python Code to perform Bitwise operations like AND, OR, XOR and Not operations on an image using OpenCV.
