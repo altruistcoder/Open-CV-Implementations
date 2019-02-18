@@ -9,15 +9,23 @@ This is a repository of code files which can be used to perform some basic tasks
 * [Loading & Displaying Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/loading_displaying_images.ipynb):
 
   Python Code to load and display an image using OpenCV.
-  
+
 * [Drawing Geometric Figures on Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/drawing_figures_on_image.ipynb):
 
   Python Code to draw geometric figures like lines, rectangles, circles and concentric circles on an image using OpenCV.
-  
+
 * [Geometric Transformations on Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/geometric_transformations.ipynb):
 
   Python Code to perform Geometric Transformations like Image Translation, Rotation, Resizing, Flipping and Cropping of an image using OpenCV.
-  
+
 * [Bitwise Operations on Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/bitwise_operations.ipynb):
 
   Python Code to perform Bitwise operations like AND, OR, XOR and Not operations on an image using OpenCV.
+
+* [Masking on Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/masking.ipynb):
+
+  Python Code to perform Masking on an image using OpenCV.
+
+* [ColorSpaces](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/colorspaces.ipynb):
+
+  Python Code to perform different operations on color spaces of an image such as splitting & merging the channels (or colorspaces) of an image and converting the images to different colorspaces using OpenCV.
