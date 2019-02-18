@@ -37,3 +37,7 @@ This is a repository of code files which can be used to perform some basic tasks
 * [Blurring of Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/blurring.ipynb):
 
   Python Code to perform different types of blurring such as Average, Gaussian, Median and Bilateral blurring on an image using OpenCV.
+
+* [Thresholding](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/blurring.ipynb):
+
+  Python Code to perform different types of thresholding such as Simple, Inverse and Adaptive Thresholding on an image using OpenCV.
