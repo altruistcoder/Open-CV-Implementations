@@ -41,3 +41,11 @@ This is a repository of code files which can be used to perform some basic tasks
 * [Thresholding](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/blurring.ipynb):
 
   Python Code to perform different types of thresholding such as Simple, Inverse and Adaptive Thresholding on an image using OpenCV.
+
+* [Gradients and Edge Detection](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/gradients_and_edge_detection.ipynb):
+
+  Python Code to find Gradients of an image using Laplacian and Sobel method and also to perform Canny Edge Detection on an image using OpenCV.
+
+* [Contours](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/contours.ipynb):
+
+  Python Code to find & draw Contours present in an image using OpenCV.
