@@ -18,6 +18,10 @@ This is a repository of code files which can be used to perform some basic tasks
 
   Python Code to perform Geometric Transformations like Image Translation, Rotation, Resizing, Flipping and Cropping of an image using OpenCV.
 
+* [Image Arithmetic](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/image_arithmetic.ipynb):
+
+  Python Code to perform arithmetic operations such as addition & subtraction on an image using OpenCV.
+
 * [Bitwise Operations on Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/bitwise_operations.ipynb):
 
   Python Code to perform Bitwise operations like AND, OR, XOR and Not operations on an image using OpenCV.
@@ -49,3 +53,11 @@ This is a repository of code files which can be used to perform some basic tasks
 * [Contours](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/contours.ipynb):
 
   Python Code to find & draw Contours present in an image using OpenCV.
+
+* [Adding Text to Videos](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/text_on_video.ipynb):
+
+  Python Code to draw text on a video using OpenCV.
+
+* [Face and Eye Detection](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/face_and_eye_detection.ipynb):
+
+  Python Code to detect faces and eyes present in a video using OpenCV.
