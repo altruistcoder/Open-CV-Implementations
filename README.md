@@ -12,7 +12,7 @@ This is a repository of code files which can be used to perform some basic tasks
 
 * [Changing Resolution & Rescaling of Frame of an Image ](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/changing_resolution_and_scaling.ipynb):
 
-  Python Code to load and display an image using OpenCV.
+  Python Code to change Resolution of an Image and Rescaling of Frame of an Image.
 
 * [Drawing Geometric Figures on Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/drawing_figures_on_image.ipynb):
 
