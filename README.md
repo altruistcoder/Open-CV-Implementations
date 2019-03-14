@@ -10,6 +10,10 @@ This is a repository of code files which can be used to perform some basic tasks
 
   Python Code to load and display an image using OpenCV.
 
+* [Changing Resolution & Rescaling of Frame of an Image ](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/changing_resolution_and_scaling.ipynb):
+
+  Python Code to load and display an image using OpenCV.
+
 * [Drawing Geometric Figures on Images](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/drawing_figures_on_image.ipynb):
 
   Python Code to draw geometric figures like lines, rectangles, circles and concentric circles on an image using OpenCV.
