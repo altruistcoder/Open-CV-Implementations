@@ -70,6 +70,6 @@ This is a repository of code files which can be used to perform some basic tasks
 
   Python Code to detect faces and eyes present in a video using OpenCV.
 
-* [Taking Timelapse](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/timelapse.ipynb):
+* [Recording Timelapse Video](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/timelapse.ipynb):
 
   Python Code to take a Timelapse Video using OpenCV.
