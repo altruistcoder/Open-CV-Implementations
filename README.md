@@ -58,6 +58,10 @@ This is a repository of code files which can be used to perform some basic tasks
 
   Python Code to find & draw Contours present in an image using OpenCV.
 
+* [Recording and Saving Videos](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/recording_video.ipynb):
+
+  Python Code to record and save videos with different types of extensions and video quality using OpenCV.
+
 * [Adding Text to Videos](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/text_on_video.ipynb):
 
   Python Code to draw text on a video using OpenCV.
