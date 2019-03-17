@@ -73,3 +73,7 @@ This is a repository of code files which can be used to perform some basic tasks
 * [Recording Timelapse Video](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/timelapse.ipynb):
 
   Python Code to take a Timelapse Video using OpenCV.
+
+* [Glasses & Moustache on Face](https://github.com/altruistcoder/Open-CV-Implementations/blob/master/glasses_and_moustache.ipynb):
+
+  Python Code to put Glasses on Eyes and Moustache on Face detected using OpenCV.
